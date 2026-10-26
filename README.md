@@ -1,5 +1,5 @@
 # PROYECTO MINIMARKET 
-## BIBLIOTECA UTILIZADA **PANDA** ** e**  ** IPYwidgets**
+## BIBLIOTECA UTILIZADA PANDA e PYwidgets
 Minimarket
 El archivo esta dividido en celdas
 # Celda 1. Base de datos de productos
